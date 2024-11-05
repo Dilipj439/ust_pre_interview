@@ -1,3 +1,7 @@
 # ust_pre_interview
 
-Write solutions
+
+Calling main.py file, and it will call functions to execute the code.
+
+
+Command: python main.py
